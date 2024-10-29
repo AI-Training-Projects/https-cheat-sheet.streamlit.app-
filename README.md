@@ -1,2 +1,2 @@
-# https-cheat-sheet.streamlit.app-
+# https-cheat-sheet.streamlit.app.py
 NTAI STREAMLIT CHEAT_SHEET
